@@ -55,6 +55,18 @@ children:
   - /codespaces-reference
   - /troubleshooting
   - /the-githubdev-web-based-editor
-  - /guides
+  - /guidesc
+HfhjfServidor : us-ssh.sshmax.xyz
+Nombre de usuario : sshmax-golbert
+Clave : gracias
+Creado : 16 mar 2022
+Caducado : 15 abr 2022
+OpenSSH : 22
+Dropbear : 80, 442
+SSL/TLS : 143, 443
+UDPGW : 7200, 7300
+Proxy HTTP
+Calamar : 8080, 8080, 8888
+
 ---
 
